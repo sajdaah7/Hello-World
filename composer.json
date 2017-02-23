@@ -1,0 +1,14 @@
+{
+    "name": "user/helloworld",
+    "description": "My first Composer project",
+    "type": "composer",
+    "license": "123",
+    "authors": [
+        {
+            "name": "Sajda Bano",
+            "email": "sajdabano@olivemedia.co"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
