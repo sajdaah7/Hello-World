@@ -12,3 +12,5 @@ class SayHello
 	}
 }readfile(filename)
 wincache_refresh_if_changed()apd_callstack(oid)
+
+This is hotifx: currently new issues are px_update_record(pxdoc, data, num)
